@@ -34,8 +34,6 @@ mkdir -p src/userplugins/saveProfileImages
 ```
 Download `index.tsx` from this repo and place it inside that new folder — or just open [`index.tsx`](index.tsx) here, copy the code, and paste it into a new file with that exact name in that folder.
  
-> **Note:** if you're using Notepad to create the file, make sure to change "Save as type" to **All Files** before saving — otherwise Notepad quietly saves it as `index.tsx.txt`, or something like that and the plugin won't be found.
- 
 **3. Build it in**
 ```
 pnpm build
@@ -51,7 +49,7 @@ pnpm inject
  
 > **Windows users:** a couple of small differences from the steps above —
 > - Use PowerShell or Git Bash for these commands, not `cmd.exe`.
-> - No `nano` on Windows — just create `index.tsx` in VS Code, Notepad, or any text editor instead.
+> - No `nano` on Windows — just create `index.tsx` in VS Code, Notepad, or any text editor instead. Or download it.
 > - "Restart Discord completely" means right-clicking the Discord icon in your system tray and choosing **Quit** — closing the window alone isn't enough, same as on Mac/Linux.
 
 ---
