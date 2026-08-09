@@ -11,7 +11,7 @@ Did you ever ask someone for their Profile Picture or Banner and you lowkey real
 Discord doesn't make it easy to grab someone's full-size avatar or banner — you usually end up opening the image and hoping the URL isn't downscaled. This plugin skips all that crap.
 
 - **Save Avatar** — right-click any user, download their avatar
-- **Save Banner** — same, for their profile banner (only shows up if they have one)
+- **Save Banner** — same, for their profile banner (only shows up if they have one, testing) 
 - Works with animated (GIF) avatars/banners
 - Choose your download resolution, up to 4096px
 
