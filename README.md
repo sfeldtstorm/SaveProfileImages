@@ -52,7 +52,7 @@ pnpm inject
 > **Windows users:** a couple of small differences from the steps above —
 > - Use PowerShell or Git Bash for these commands, not `cmd.exe`.
 > - No `nano` on Windows — just create `index.tsx` in VS Code, Notepad, or any text editor instead.
-> - "Restart Discord completely" means right-clicking the Discord icon in your system tray (bottom-right, near the clock) and choosing **Quit** — closing the window alone isn't enough, same as on Mac/Linux.
+> - "Restart Discord completely" means right-clicking the Discord icon in your system tray and choosing **Quit** — closing the window alone isn't enough, same as on Mac/Linux.
 
 ---
 
