@@ -19,7 +19,7 @@ Discord doesn't make it easy to grab someone's full-size avatar or banner — yo
 
 ## Install
  
-This plugin isn't in Vencord's official plugin list, so you'll need your own local Vencord userplugin build for it to work.
+This plugin isn't in Vencord's official plugin list, so you'll need your own local Vencord userplugin build for it to work and I don't plan to put this on Vencord's official plugin list for now.
  
 **1. Get Vencord set up locally** (skip if you already have this)
 ```
