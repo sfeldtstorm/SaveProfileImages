@@ -70,3 +70,4 @@ Change the download resolution anytime in the plugin's own settings.
  
 - Only works on avatars/banners you're already able to see in Discord — it doesn't bypass any privacy or blocking.
 - Requires rebuilding (`pnpm build` + Discord restart) any time you update `index.tsx`.
+- This is just my dump Github for Plugins I am going to make, if you somehow found this and have any questions or help free to reach out at/sfeldtstorm on everywhere.
